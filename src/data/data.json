@@ -1,75 +1,75 @@
 {
   "Header": {
-    "title": "Webtech Club",
-    "paragraph": "We help you get more users & increase your profits. Consistently!"
+    "title": "Elegant and creative solutions",
+    "paragraph": "we design effective customer engagement strategies, blending technologies and data to create connections and content that disrupt, capture attention and prompt action"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Webtech Club was founded in 2015. With the steadfast belief that web design makes a difference from a prospect’s initial impression to a business's bottom line. We cultivated a small design studio into a successful web design company. As web design and development grew to include many other digital marketing elements such as lead generation and content marketing. The company’s growth and dexterity in the digital space has made it the trusted partner for various consultancies.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Customer first preference",
+      "Pursuit of excellence",
+      "Mutual respect",
+      "Light and fast response"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Understanding brand importance",
+      "Market researcher",
+      " No-compromise with Quality",
+      "Skills through srts education"
     ]
   },
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Web Design and Development",
+      "text": "A website is a necessity for nearly every business, and it needs to grow with you in order to effectively represent your brand and sustain growth. A website’s success is measured only if your users can get where they need to go without getting frustrated. These intelligent experiences happen by design."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "logo design for Brand",
+      "text": "Your brand and logo say a lot about who you are as a company. The fine crafting that goes into your company’s logo imbues it with a distinct tone that embeds itself into your customer’s subconscious. As experts in this field, we spend a great deal of time working out which font, color and image are just right for your corporate identity to be both trusted and memorable. "
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Business Stationery Design & Printing",
+      "text": "Our Stationery Design & Printing Services such as I Card, letterhead, visiting cards, banners, etc. will help you to leave a remarkable and long lasting brand image and existence which will be revealed in your artistically designed stationery. It is an essential part of your company/brand silhouette and thus, you require professional designers to make a pioneering stationery design which best characterizes your business."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Graphic Design",
+      "text": "There's no limit to what you can get designed at webtechclub. Whether you're looking for a spectacular event Invitation, advertisement or some stunning flyers, the talented global community of designers at webtechclub can make it happen. webtechclub prides itself on it's high quality designers who deliver only the best graphic design services. Find the right design service for you below and get design you'll love today!"
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Social media advertising",
+      "text": "More than any other advertising platform, social media advertising helps maximize your brand’s visibility and user engagement. As a social media advertising agency, we use social media data to track basic user information and how they move across the Internet on platforms including Facebook, Twitter, Instagram, Snapchat, LinkedIn and YouTube. Then we use that knowledge to craft a social media advertising strategy that achieves results."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Presentation Design",
+      "text": "We craft unique Presentation Designs that let you inspire your world with powerful stories.our presentation design studio to create world-class business presentations for conference keynote, corporate presentations, sales pitch and more. Minimalistic design approach combined with 5 years of presentation design experience makes us the trusted partner for several clients."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I was impressed by how quickly the designers of Webtechclub understood our brief, and responded to feedback so promptly and accurately. I also really appreciated being logo presented with options at every step of the way, which gave me an opportunity to work collaboratively and generate some new ideas that I hadn’t considered myselves.",
+      "name": "Sanjay Mohanty. Director(Bitrozex)"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Webtechclub was able to produce a logo that captured our brand attributes with a strong attention to detail. The service was delivered in a professional manner with a commitment to deadlines and a focus on customer expectation. We look forward to working with his outfit again in the future.\"",
+      "name": "Shreya Singh. Director(Siamaq consultancy)"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Great job! We really had a good time working with Webtechclub. They were courteous and helpful and took care of out every need, even when we asked a lot from them. Very reasonable with price as well! Thanks!\"",
+      "name": "Sandeep Sapkal. Director(VS Sapkal Associates pvt. ltd.)"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Webtechclub did a SUPER job with designing my logo and Business card! They demonstrated exceptional patience, creativity, and professionalism. Will definitely use them again.\"",
+      "name": "Adv. Atul Pund. Advocate(Mumbai High-court)"
     },
     {
       "img": "img/testimonials/05.jpg",
@@ -95,10 +95,10 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "Green City, Hadapsar, Pune 411 028. ",
+    "phone": "+91 98601 04307, +91 80876 08223, +91 77700 35030",
+    "email": "webtechclub@gmail.com",
+    "facebook": "webtechclub.fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
@@ -106,22 +106,22 @@
     {
       "icon": "fa fa-comments-o",
       "title": "UX & UI Design",
-      "text": "Identify where the need for your products/services arises. Understand where you are losing out on your audience. Know why your conversions are not as good as your competitor."
+      "text": "Want to build your product with a team that establishes a clear design process, meets deadlines, and delivers a spot-on end result? Turn to Webtechclub’s UI and UX services. Our design team is a small design studio within Webtechclub that will help you build an engaging product easily and quickly."
     },
     {
       "icon": "fa fa-bullhorn",
       "title": "UI Development",
-      "text": "Identify where the need for your products/services arises. Understand where you are losing out on your audience. Know why your conversions are not as good as your competitor."
+      "text": " Webtechclub has been an enriched dedicated designer and developer for creating a handsome layout to grab the attention of the audience. Our team prefers the clutter-free and bold design style for obtaining the standard markup for the new and modified site. As a result, the newly developed website boosts an exceptional search engine ranking position. It is not a big deal to increase the invincible conversion rate."
     },
     {
       "icon": "fa fa-group",
       "title": "Web Hosting",
-      "text": "Identify where the need for your products/services arises. Understand where you are losing out on your audience. Know why your conversions are not as good as your competitor."
+      "text": "Webtechclub is a one of the most recognisable web hosting service provider, it is best for speed, reliability, and excellent support.  Its interface is so easy to use that it makes really easy to launch a website within 5 minutes. It provides flexible hosting & domain options in market, with plans suitable for website owners, small businesses and big enterprises."
     },
     {
       "icon": "fa fa-magic",
       "title": "Advertisement",
-      "text": "Identify where the need for your products/services arises. Understand where you are losing out on your audience. Know why your conversions are not as good as your competitor."
+      "text": "Give your business the tools to grow with digital advertising services from Webtechclub. With our complete suite of online advertising services, plus custom strategies and dedicated team, We make sure that our expertise in the various aspects and forms of digital advertising are utilized with each campaign that we craft. we can help your company improve its brand awareness, sales, revenue, and more. "
     }
   ]
 }
