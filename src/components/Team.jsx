@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
 
 export class Team extends Component {
   render() {
@@ -15,7 +15,7 @@ export class Team extends Component {
           <div id="row" className='rows'>
             {this.props.data
               ? this.props.data.map((d, i) => (
-                  <div  key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
+                  <div  key={`${d.name}-${i}`} className="col-md-3 col-sm-6 col-xs-12 team">
                     <div className="thumbnail">
                       {" "}
                       <img src={d.img} alt="..." className="team-img" />
